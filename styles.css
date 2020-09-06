@@ -112,7 +112,7 @@ section{
   
   .navbar-toggler {
     padding: 0.25rem 0.75rem;
-    font-size: 5rem;
+    font-size: 1.5rem;
     line-height: 2;
     background-color: transparent;
     border: 0.125rem solid transparent;
@@ -124,8 +124,8 @@ section{
   
   .navbar-toggler-icon {
     display: inline-block;
-    width: 5em;
-    height: 5em;
+    width: 1.5em;
+    height: 1.5em;
     vertical-align: middle;
     content: "";
     background: no-repeat center center;
@@ -375,10 +375,7 @@ section{
   #mainNav .navbar-nav li.nav-item a.nav-link.active {
     background-color: #DF533F;
   }
-  #mainNav .navbar-toggler {
-    font-size: 80%;
-    padding: 0.8rem;
-  }
+ 
   
   @media (min-width: 992px) {
     #mainNav {
