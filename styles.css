@@ -13,6 +13,7 @@ p{
 section{
     padding: 60px 0;
 }
+
 .nav {
     display: flex;
     flex-wrap: wrap;
@@ -685,7 +686,7 @@ strong {
  
 .plane{
       position: absolute;
-      top: -67%;
+      top: -75%;
       left: 40%;
 }
 
